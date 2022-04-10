@@ -22,7 +22,7 @@ It was tested in a python virtual environment (Python 3.8.10) on a Ubuntu 20.04 
 Clone the reporitory in your virtual environment and run
 
 ```
-$ python terminal_tree.py
+$ python tree.py
 ```
 
 To quit: CTRL+C
